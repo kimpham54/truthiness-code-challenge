@@ -2,7 +2,6 @@
 
 ## Objectives
 
-0. Happy friday.
 1. Strengthen your understanding of truthiness in Ruby
 2. Practice using boolean and comparison operators
 
